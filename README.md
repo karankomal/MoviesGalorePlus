@@ -13,7 +13,7 @@ The following **required** functionality is completed:
 - [X] **Choose any endpoint on The MovieDB API except `now_playing`**
   - Chosen Endpoint: `Trending Movies`
   - Chosen Endpoint: `Trending TV Shows`
-  - Chosen Endpoint: `Trending Actors`
+  - Chosen Endpoint: `Trending People`
 - [X] **Make a request to your chosen endpoint and implement a RecyclerView to display all entries**
 - [X] **Use Glide to load and display at least one image per entry**
 - [X] **Click on an entry to view specific details about that entry using Intents**
@@ -27,7 +27,7 @@ The following **optional** features are implemented:
 The following **additional** features are implemented:
 
 - [X] **Nested RecyclerViews to have vertical and horizontal scrolling!**
-- [X] **Long on a poster in the Details Activity to be taken to the IMDB page for the item!**
+- [X] **Long click on a poster in the Details Activity to be taken to the IMDB page for the item!**
 
 
 ## Video Walkthrough
